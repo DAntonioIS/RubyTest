@@ -11,6 +11,7 @@ gem 'rails', '~> 5.1.5'
 
 #devise auth
 gem 'devise'
+gem 'devise-bootstrap-views'
 
 #bootstrap for mobile friendly views
 gem 'twitter-bootstrap-rails'
